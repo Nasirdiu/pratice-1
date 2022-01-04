@@ -1,0 +1,73 @@
+body{
+    font-family: 'Island Moments', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+.head-2{
+    color: orange;
+}
+.fixeable{
+    display: flex;
+    margin-bottom: 100px;
+}
+.head-1 img{
+    width: 100%;
+}
+.head-1{
+    width: 50%;
+    padding-left: 5px;
+}
+.head-1 p{
+    text-align: justify;
+}
+.head-3{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
+.head{
+    background-image: url(../images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.body-dream{
+    background-image: url(../images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.exit-it{
+    background-image: url(../images/exp-bg.png);
+    background-repeat: no-repeat;
+
+}
+.ses{
+    width: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 50px;
+    border-radius: 5px;
+    box-shadow:10px 10px 10px 10px tomato;
+}
+#ex{
+    border-left: 10px solid rebeccapurple;
+    background-image: linear-gradient(yellow
+    ,red);
+    border-image-slice: 1;
+}
+#ex2{
+    border-left: 10px solid rebeccapurple;
+    background-image: linear-gradient(rgb(230, 27, 203)
+    ,red);
+    border-image-slice: 1;
+}
+ footer p{
+     text-align: center;
+ }
+ marquee{
+     color: rgb(230, 27, 203);
+ }
